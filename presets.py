@@ -14,8 +14,8 @@ class Presets(object):
 <b>/subs</b><code> - to count subscribers</code>
 <b>/send</b><code>  - to broadcast (as reply)</code>
 
-<b>Join:</b><a href='https://t.me/RMProjects'><b> Support</b></a> | Repo\
-<a href='https://github.com/m4mallu/inline-tube-mate'><b> LINK</b></a>   
+<b>Join:</b><a href='https://t.me/ytdsupport'><b> Support</b></a> | Repo\
+<a href='https://github.com'><b> LINK</b></a>   
     """
 
     OPTIONS_TXT = "<code>🔰 Select the option 🔰</code>"
@@ -46,7 +46,7 @@ class Presets(object):
     FINISHED_PROGRESS_STR = "◼️"
     UN_FINISHED_PROGRESS_STR = "◻️"
     SOURCE_URL = "https://github.com"
-    SUPPORT_URL = "https://t.me/ytdsupport"
+    SUPPORT_URL = "https://t.me/ytcs_bot"
     CHECKING_LINK = "⏳ <code>Analyzing your link...</code>"
     DOWNLOAD_START = "⬇️ <code>Download Initiated...</code>"
     UPLOAD_START = "⬆️ <code>Upload Initiated...</code>"
